@@ -24,7 +24,7 @@ SIGESS represents a groundbreaking approach to energy storage that embeds silico
 
 ## Document
 
-📄 **[SIGESS_Research_Paper.pdf](./SIGESS_Research_Paper.pdf)** - Complete technical paper with detailed design specifications, fabrication methodology, and performance analysis.
+📄 **[SIGESS Research Paper](https://github.com/INFINITYone22/SIGESS/blob/main/SIGESS.pdf)** - Complete technical paper with detailed design specifications, fabrication methodology, and performance analysis.
 
 ## Research Highlights
 
